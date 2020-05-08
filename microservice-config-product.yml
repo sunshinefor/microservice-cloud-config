@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
 
 emp:
-  name: lisi
+  name: wangwu
     
 ---
 server:
